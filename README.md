@@ -12,7 +12,7 @@
 
 [comment]: <>  (## Some Title)
 
-### index url - 'https://codeinstitute-davidhubber.github.io/Putting-it-all-together-Sending-Emails-Using-EmailJS/index.html'
+### index url - 'https://codeinstitute-davidhubber.github.io/Putting-it-all-together-Sending-Emails-Using-EmailJS/06-sending_emails/index.html'
 
 [comment]: <>  (- [This is a link Make it Match #1][])
 [comment]: <>  (- [This is a link Make it Match #2][])
